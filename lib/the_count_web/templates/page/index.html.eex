@@ -1,0 +1,4 @@
+<div class="jumbotron">
+  <p>The counter is...</p>
+  <h1 class="huge"><%= @counter %></h1>
+</div>
