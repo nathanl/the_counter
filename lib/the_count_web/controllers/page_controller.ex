@@ -6,6 +6,6 @@ defmodule TheCountWeb.PageController do
   end
 
   defp counter_val do
-    TheCount.Counter.current_val()
+    TheCount.Counter.val()
   end
 end
